@@ -48,11 +48,6 @@ Este proyecto es un sistema de Biblioteca desarrollado en Java, utilizando el pa
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor abre un issue o realiza un pull request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la MIT License.
-
 ---
 
 Desarrollado por [wilsonIxbalan](https://github.com/wilsonIxbalan)
