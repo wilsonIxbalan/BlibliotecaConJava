@@ -45,9 +45,5 @@ Este proyecto es un sistema de Biblioteca desarrollado en Java, utilizando el pa
 - `resources/` — Archivos de configuración y recursos.
 - `pom.xml` — Archivo de dependencias Maven.
 
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor abre un issue o realiza un pull request.
----
 
 Desarrollado por [wilsonIxbalan](https://github.com/wilsonIxbalan)
